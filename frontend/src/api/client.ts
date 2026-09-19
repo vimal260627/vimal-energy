@@ -11,7 +11,7 @@ import type {
   ChartDataPoint
 } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://vimal-energy.onrender.com/api';
 
 export const api = {
   // Dashboard
